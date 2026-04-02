@@ -1,4 +1,4 @@
-## Embedded Systems | Zephyr | FreeRTOS | Bare-metal | Electronics
+## Embedded Systems | Zephyr | Bare-metal | FreeRTOS | Electronics
 
 <!--
 **qbx11/qbx11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
