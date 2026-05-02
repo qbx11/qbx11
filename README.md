@@ -1,5 +1,7 @@
 ## Embedded Systems | Zephyr | Bare-metal | FreeRTOS | Electronics
 
+[![Zephyr Technical Contributor](assets/zephyr-technical-contributor.png)](https://www.credly.com/badges/0d1c1282-a27d-40f1-84dd-63c74d66091d/public_url)
+
 <!--
 **qbx11/qbx11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
