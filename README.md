@@ -1,7 +1,12 @@
 ## Embedded Systems | Zephyr | Bare-metal | FreeRTOS | Electronics
 
-[![Zephyr Technical Contributor](zephyr-technical-contributor.png)](https://www.credly.com/badges/0d1c1282-a27d-40f1-84dd-63c74d66091d/public_url)
-
+<a href="https://www.credly.com/badges/0d1c1282-a27d-40f1-84dd-63c74d66091d/public_url" target="_blank">
+  <img src="zephyr-technical-contributor.png" width="150" alt="Zephyr Technical Contributor"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/3c3f777e-58f4-48a5-9be7-5f9c9df34b1e/public_url" target="_blank">
+  <img src="ccna-introduction-to-networks.png" width="138" alt="CCNA: Introduction to Networks"/>
+</a>
 <!--
 **qbx11/qbx11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
